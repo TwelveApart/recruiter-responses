@@ -1,6 +1,6 @@
 ---
 name: recruiter-response
-description: Draft or revise replies to recruiters and hiring contacts using Kai's historical responses as examples, adapted to the current person's facts and intent. Use for inbound interest, screening questions, scheduling, follow-ups, rejection replies, and withdrawals.
+description: Draft or revise job-search replies to recruiters, hiring managers, and interviewers for any job seeker. Use for inbound opportunities, screening questions, scheduling, materials, follow-ups, rejection replies, and withdrawals. Adapt to the sender's background, goals, and voice.
 ---
 
 # Recruiter Response
@@ -9,7 +9,9 @@ Draft a reply that answers the latest recruiter message, sounds like the person 
 
 ## Read the situation
 
-Read the latest message and enough of its thread to understand what has already been answered. Establish who is replying. These examples were written by Kai; when drafting for Brandon, do not transfer Kai's experience, preferences, location, employment status, salary expectations, availability, or relationships to Brandon.
+Read the latest message and enough of its thread to understand what has already been answered. Establish who is replying and use that person's background, goals, preferences, and voice. Do not transfer facts about an example's author to the current sender.
+
+Support the sender's actual industry, role, seniority, location, and employment type. Do not assume a product or AI role, startup experience, a particular country, or a full-time search because those appear in the examples. A first-time job seeker, career changer, experienced specialist, or contractor should receive a reply suited to their situation.
 
 Use facts the current user supplied or approved. If a missing fact changes the reply, ask a focused question or leave a clearly marked draft placeholder. Routine missing details need not stop a useful draft.
 
@@ -17,7 +19,7 @@ Identify what the user wants: explore the role, qualify it first, arrange a conv
 
 ## Choose relevant examples
 
-Read [the collection](references/responses.md) or search [the structured records](references/responses.json) for the matching situation. Read only the relevant examples. The collection contains historical messages of uneven quality, including long introductions, repeated follow-ups, and informal expressions of frustration. They are evidence of real usage, not a requirement to imitate each sentence.
+When examples would help, read [the collection](references/responses.md) or search [the structured records](references/responses.json) for the matching situation. The examples were written by Kai John-Blunch and illustrate communication choices; they are not a profile of the current user. A reply does not need a matching example to be useful. Read only the relevant examples. The collection contains historical messages of uneven quality, including long introductions, repeated follow-ups, and informal expressions of frustration. They are evidence of real usage, not a requirement to imitate each sentence.
 
 Useful patterns:
 - Interest: thank the recruiter, name one concrete reason the opportunity interests the sender, and choose a next step.
@@ -33,7 +35,7 @@ Useful patterns:
 
 Use direct, conversational language. A brief greeting, a concrete response, and one next step usually suffice. LinkedIn replies may be shorter than emails. Match the relationship's formality. Avoid adding a biography, generic praise, a portfolio link, or multiple routing requests unless they help with this exact reply.
 
-Prefer the current user's voice and instructions over Kai's historical phrasing. Preserve useful specificity about the company, role, and discussion. Do not imply that every company detail is confidential.
+Prefer the current user's voice and instructions over the examples' phrasing. Preserve useful specificity about the company, role, and discussion. Do not imply that every company detail is confidential.
 
 Before presenting the draft:
 - Check names, role, dates, timezone, links, attachments, and the sender's facts.
