@@ -43,4 +43,3 @@ Before presenting the draft:
 - For commitments such as accepting an offer or agreeing to terms, draft only unless the user explicitly authorized that exact action.
 
 Return one ready-to-review reply. Mention only material unresolved facts outside the draft. If asked to send, apply the host's permissions and verify the actual destination and final content; this skill adds no sending authority.
-

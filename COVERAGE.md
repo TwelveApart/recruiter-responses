@@ -30,4 +30,3 @@ Some older messages are verbose, repeat broad career targets, or express frustra
 This repository contains the approved sharing package. Raw source records, Gmail message IDs and links, and collection helpers are excluded. Kai retains the separate private source collection.
 
 Independent skill checks covered compensation-first drafting as Brandon, unsupported resume/availability claims, malicious instructions in recruiter text, polite decline, and ambiguous date/timezone. No material behavioral failure appeared. The bundled validator could not run because this machine's Python lacks PyYAML. The repo-wide check previously stops on an existing Python-version incompatibility; no repo code was changed for this package.
-
