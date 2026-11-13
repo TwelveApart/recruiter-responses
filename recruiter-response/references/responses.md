@@ -70,7 +70,7 @@ each week in NYC.
 
 *Email:* [email]
 
-*Phone:* [phone] <(202)%20569-5501>
+*Phone:* [phone] [phone]
 
 *Education:* Washington and Lee University, B.S. in Business
 Administration, Economics concentration and French minor, 2023.
@@ -430,7 +430,7 @@ Kai John-Blunch
 
 ## E020 · Scheduling
 
-Email · 2024-09-25T13:53:22-04:00 · Re: Updated invitation: Canceled: Kai John-Blunch and Paul Kahn @ Wed Sep 25, 2024 1:30pm - 1:45pm (EDT) (kjohnblunch@gmail.com)
+Email · 2024-09-25T13:53:22-04:00 · Re: Updated invitation: Canceled: Kai John-Blunch and Paul Kahn @ Wed Sep 25, 2024 1:30pm - 1:45pm (EDT) ([email])
 
 ```text
 Hi Paul,
@@ -2058,24 +2058,7 @@ I'll also send an outlook calendar invite.
 Thanks again,
 Kai
 
-*Kai John-Blunch is inviting you to a scheduled Zoom meeting.Topic: Gerardo
-x Kai re M & C GroupTime: Jan 27, 2022 10:15 AM Eastern Time (US and
-Canada)Join Zoom Meeting[personal link]
-<[personal link]>Meeting ID: 938 0916 7492One tap
-mobile+16465588656,,93809167492# US (New York)+13017158592,,93809167492# US
-(Washington DC)Dial by your location        [phone] US (New York)
-      [phone] US (Washington DC)        [phone] US
-(Chicago)        [phone] US (San Jose)        [phone] US
-(Tacoma)        [phone] US (Houston)Meeting ID: 938 0916 7492Find
-your local number: [personal link]
-<[personal link]>Join by [email]
-<[email]>Join by H.323162.255.37.11 (US West)162.255.36.11
-(US East)221.122.88.195 (China)115.114.131.7 (India Mumbai)115.114.115.7
-(India Hyderabad)213.19.144.110 (Amsterdam Netherlands)213.244.140.110
-(Germany)103.122.166.55 (Australia Sydney)103.122.167.55 (Australia
-Melbourne)209.9.211.110 (Hong Kong SAR)64.211.144.160 (Brazil)69.174.57.160
-(Canada Toronto)65.39.152.160 (Canada Vancouver)207.226.132.110 (Japan
-Tokyo)149.137.24.110 (Japan Osaka)Meeting ID: 938 0916 7492*
+[Meeting invitation details omitted.]
 ```
 
 ## E101 · Scheduling
@@ -2085,49 +2068,7 @@ Email · 2022-01-24T14:58:26-05:00 · Re: Financial Institutions Group Placement
 ```text
 [personal link]
 
-Kai John-Blunch is inviting you to a scheduled Zoom meeting.
-
-Topic: Chad x Kai re FIG Summer '22
-Time: Jan 25, 2022 10:00 AM Eastern Time (US and Canada)
-
-Join Zoom Meeting
-[personal link]
-
-Meeting ID: 960 3258 9142
-One tap mobile
-+16465588656,,96032589142# US (New York)
-+13017158592,,96032589142# US (Washington DC)
-
-Dial by your location
-        [phone] US (New York)
-        [phone] US (Washington DC)
-        [phone] US (Chicago)
-        [phone] US (San Jose)
-        [phone] US (Tacoma)
-        [phone] US (Houston)
-Meeting ID: 960 3258 9142
-Find your local number: [personal link]
-
-Join by SIP
-[email]
-
-Join by H.323
-162.255.37.11 (US West)
-162.255.36.11 (US East)
-221.122.88.195 (China)
-115.114.131.7 (India Mumbai)
-115.114.115.7 (India Hyderabad)
-213.19.144.110 (Amsterdam Netherlands)
-213.244.140.110 (Germany)
-103.122.166.55 (Australia Sydney)
-103.122.167.55 (Australia Melbourne)
-209.9.211.110 (Hong Kong SAR)
-64.211.144.160 (Brazil)
-69.174.57.160 (Canada Toronto)
-65.39.152.160 (Canada Vancouver)
-207.226.132.110 (Japan Tokyo)
-149.137.24.110 (Japan Osaka)
-Meeting ID: 960 3258 9142
+[Meeting invitation details omitted.]
 ```
 
 ## E102 · Acknowledgment / other
@@ -3550,7 +3491,7 @@ Kai John-Blunch
 
 ## E173 · Scheduling
 
-Email · 2026-07-02T15:00:18-04:00 · Re: Appointment booked: JOLT Conversation (Kai John-Blunch) @ Thu Jul 2, 2026 2pm - 2:15pm (EDT) (kjohnblunch@gmail.com)
+Email · 2026-07-02T15:00:18-04:00 · Re: Appointment booked: JOLT Conversation (Kai John-Blunch) @ Thu Jul 2, 2026 2pm - 2:15pm (EDT) ([email])
 
 ```text
 Hi Paula and Tara,
@@ -3996,51 +3937,7 @@ Best,
 Kai John-Blunch
 Summer '21 ABP Fellow
 
-Kai John-Blunch is inviting you to a scheduled Zoom meeting.
-
-Topic: Kai John-Blunch's Personal Meeting Room
-
-Join Zoom Meeting
-[personal link]
-
-Meeting ID: [one-time authentication code withheld]
-Passcode: [one-time authentication code withheld]
-One tap mobile
-+16465588656,,6024510266#,,,,*949170# US (New York)
-+13017158592,,6024510266#,,,,*949170# US (Washington DC)
-
-Dial by your location
-        [phone] US (New York)
-        [phone] US (Washington DC)
-        [phone] US (Chicago)
-        [phone] US (Houston)
-        [phone] US (San Jose)
-        [phone] US (Tacoma)
-Meeting ID: [one-time authentication code withheld]
-Passcode: [one-time authentication code withheld]
-Find your local number: [personal link]
-
-Join by SIP
-[email]
-
-Join by H.323
-162.255.37.11 (US West)
-162.255.36.11 (US East)
-221.122.88.195 (China)
-115.114.131.7 (India Mumbai)
-115.114.115.7 (India Hyderabad)
-213.19.144.110 (Amsterdam Netherlands)
-213.244.140.110 (Germany)
-103.122.166.55 (Australia Sydney)
-103.122.167.55 (Australia Melbourne)
-209.9.211.110 (Hong Kong SAR)
-64.211.144.160 (Brazil)
-69.174.57.160 (Canada Toronto)
-65.39.152.160 (Canada Vancouver)
-207.226.132.110 (Japan Tokyo)
-149.137.24.110 (Japan Osaka)
-Meeting ID: [one-time authentication code withheld]
-Passcode: [one-time authentication code withheld]
+[Meeting invitation details omitted.]
 ```
 
 ## E198 · Scheduling
