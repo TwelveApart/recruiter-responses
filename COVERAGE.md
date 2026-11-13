@@ -23,7 +23,7 @@ Retained real first names and professional names in message bodies, companies, r
 
 Messages are historical records, with original wording and occasional errors retained. Whitespace and line wrapping were normalized. Collection headings and categories were added. Redaction markers are in brackets. No fake people, invented response text or synthetic recruiter messages are mixed into the collection.
 
-Some older messages are verbose, repeat broad career targets, or express frustration. Those remain in the archive; the skill does not recommend copying those habits. Pay figures and employment status in these messages belong to their historical context and must not become assumptions about Brandon.
+Some older messages are verbose, repeat broad career targets, or express frustration. Those remain in the archive; the skill does not recommend copying those habits. Pay figures and employment status in these messages belong to their historical context and must not become assumptions about the person using the skill.
 
 ## Review and sharing boundary
 

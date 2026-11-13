@@ -1,6 +1,6 @@
 # Recruiter responses
 
-A collection of Kai John-Blunch's historical recruiter and hiring replies, plus a reusable skill for drafting Brandon's own responses.
+A reusable skill for anyone navigating a job search and conversations with recruiters, hiring managers, and interviewers. Includes Kai John-Blunch's historical replies as reference examples.
 
 ## Start here
 
@@ -15,9 +15,9 @@ Copy the entire `recruiter-response` directory into your agent's supported skill
 
 Example request:
 
-> Use the recruiter-response skill to draft my reply to the message below. I’m Brandon. I’m interested, but want to know the compensation range before scheduling. Do not send it. [Paste recruiter message.]
+> Use the recruiter-response skill to draft my reply to the message below. I’m interested, but want to know the compensation range before scheduling. Do not send it. [Paste recruiter message.]
 
-The examples preserve Kai's history. The skill uses Brandon's current facts and intent when writing for Brandon.
+The skill adapts to the job seeker's background, target roles, preferences, voice, and current situation. It works across industries, seniority levels, and employment types. The examples preserve Kai's history; they do not define the user's profile or limit which roles the skill supports.
 
 ## Shared home
 
