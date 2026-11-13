@@ -4,14 +4,21 @@ A reusable skill for anyone navigating a job search and conversations with recru
 
 ## Start here
 
-- Open [the searchable collection](review.html).
-- Read [the skill](recruiter-response/SKILL.md).
+- Open [the searchable collection](https://twelveapart.github.io/recruiter-responses/).
+- Read [the maintained skill](https://github.com/TwelveApart/skills/blob/main/skills/recruiter-response/SKILL.md).
 - Browse [all replies as Markdown](recruiter-response/references/responses.md), or use [JSON](recruiter-response/references/responses.json).
 - Read [coverage and collection notes](COVERAGE.md).
 
 ## Install the skill
 
-Copy the entire `recruiter-response` directory into your agent's supported skill directory. For Codex, use `~/.codex/skills/recruiter-response/`. Keep its `references` directory alongside `SKILL.md`. The skill has no dependency on Kai's private repo, Gmail account, or Chrome session.
+The skill is maintained in [TwelveApart/skills](https://github.com/TwelveApart/skills) and works with its shared installer. Clone that repository once, then install this skill:
+
+```bash
+git clone https://github.com/TwelveApart/skills.git ~/dev/twelveapart-skills
+bash ~/dev/twelveapart-skills/scripts/install.sh recruiter-response
+```
+
+If you already have that checkout, pull its latest changes before running the installer. It links the skill into the agent directories used by Codex and Claude Code. See [installation options](https://github.com/TwelveApart/skills/blob/main/docs/install.md) for other supported setups. No access to the author's inbox or private repositories is required.
 
 Example request:
 
@@ -21,4 +28,4 @@ The skill adapts to the job seeker's background, target roles, preferences, voic
 
 ## Shared home
 
-Published with Kai’s approval at [TwelveApart/recruiter-responses](https://github.com/TwelveApart/recruiter-responses). The collection and skill are maintained together here.
+Published with Kai’s approval at [TwelveApart/recruiter-responses](https://github.com/TwelveApart/recruiter-responses). This repository maintains the collection. [TwelveApart/skills](https://github.com/TwelveApart/skills) maintains the skill. The skill links to these examples as optional reference material.
